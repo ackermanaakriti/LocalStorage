@@ -1,7 +1,27 @@
 .first_div
 {
-    background: rgb(171, 230, 171);
+    background: rgb(177, 74, 74);
     height: 50vh;
     width: 80vh;
     margin-left: 290px;
+}
+#firstinput
+{
+    height: 10vh;
+    width: 60vh;
+    background: rgb(226, 168, 180);
+    margin-top: 20px;
+    border-radius: 18px;
+    margin-left: 50px;
+}
+#firtinput[type="text"]
+{
+    font-size: 50px;
+}
+#firs_button
+{
+    margin: 50px 150px;
+    padding: 10px;
+    border-radius: 25px;
+
 }
